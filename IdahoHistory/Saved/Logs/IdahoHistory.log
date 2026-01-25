@@ -1218,3 +1218,80 @@ LogConfig: Set CVar [[r.VRS.EnableSoftware:1]]
 [2026.01.25-22.24.59:548][  8]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 6.667736
 [2026.01.25-22.24.59:550][  8]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1164040915
 [2026.01.25-22.24.59:550][  8]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6.667736, Update Interval: 309.909973
+[2026.01.25-22.25.53:814][248]LogSlate: Window 'Plugins' being destroyed
+[2026.01.25-22.26.05:214][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2026.01.25-22.26.05:215][743]LogStreaming: Display: FlushAsyncLoading(494): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-22.26.05:286][743]LogChaosDD: Creating Chaos Debug Draw Scene for world SwanFalls
+[2026.01.25-22.26.05:348][743]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SwanFalls.SwanFalls
+[2026.01.25-22.26.05:349][743]Cmd: MAP LOAD FILE="../../../../../../GitHub/luminary/IdahoHistory/Content/SwanFalls.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.01.25-22.26.05:370][743]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-22.26.05:370][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-22.26.05:370][743]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2026.01.25-22.26.05:387][743]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.01.25-22.26.05:401][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2026.01.25-22.26.05:406][743]LogWorld: UWorld::CleanupWorld for SwanFalls, bSessionEnded=true, bCleanupResources=true
+[2026.01.25-22.26.05:406][743]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.01.25-22.26.05:442][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2026.01.25-22.26.05:458][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2026.01.25-22.26.05:510][743]LogAudio: Display: Audio Device (ID: 1) registered with world 'SwanFalls'.
+[2026.01.25-22.26.05:510][743]LogChaosDD: Creating Chaos Debug Draw Scene for world SwanFalls
+[2026.01.25-22.26.05:570][743]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.01.25-22.26.05:595][743]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2026.01.25-22.26.05:599][743]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.01.25-22.26.05:599][743]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.049ms to complete.
+[2026.01.25-22.26.05:617][743]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2026.01.25-22.26.05:898][745]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.01.25-22.26.05:903][745]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.01.25-22.26.08:476][890]LogStreaming: Display: FlushAsyncLoading(496): 1 QueuedPackages, 0 AsyncPackages
+[2026.01.25-22.26.48:905][831]LogDerivedDataCache: C:/Users/jaden_jzobu2n/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2026.01.25-22.27.32:004][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_0 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:005][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_1 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:007][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_2 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:008][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_3 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:009][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_4 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 3.333332 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:010][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_5 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:012][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_6 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:014][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_7 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:016][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_8 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:016][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_9 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 3.333332 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:018][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_10 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:019][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_11 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:021][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_12 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:023][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_13 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:023][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_14 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 3.333332 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:024][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_15 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:026][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_16 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:027][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_17 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:029][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_18 (BGRA8, 512x512 x1x1x1) (Required Memory Estimate: 10.333324 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:029][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_19 (BGRA8, 128x512 x1x1x1) (Required Memory Estimate: 3.333332 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:030][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_20 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 3.333332 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:031][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_21 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 3.333332 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:031][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_22 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 3.333332 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.32:032][504]LogTexture: Display: Building textures: /Game/SwanFalls.SwanFalls:PersistentLevel.Landscape_0.Heightmap_23 (BGRA8, 512x128 x1x1x1) (Required Memory Estimate: 3.333332 MB), EncodeSpeed: Fast
+[2026.01.25-22.27.54:687][732]Cmd: EDIT CUT
+[2026.01.25-22.27.55:451][732]LogEditorActor: Deleted Actor: Landscape
+[2026.01.25-22.27.55:601][732]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2026.01.25-22.27.55:603][732]LogEditorActor: Deleted 1 Actors (0.165 secs)
+[2026.01.25-22.28.14:918][878]Cmd: EDIT CUT
+[2026.01.25-22.28.18:162][878]LogEditorActor: Deleted Actor: Landscape
+[2026.01.25-22.28.18:316][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2026.01.25-22.28.18:318][878]LogEditorActor: Deleted 1 Actors (0.165 secs)
+[2026.01.25-22.28.45:682][379]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.01.25-22.28.45:753][379]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwanFalls" FILE="../../../../../../GitHub/luminary/IdahoHistory/Content/SwanFalls.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.01.25-22.28.45:790][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2026.01.25-22.28.46:234][379]LogSavePackage: Moving output files for package: /Game/SwanFalls
+[2026.01.25-22.28.46:234][379]LogSavePackage: Moving '../../../../../../GitHub/luminary/IdahoHistory/Saved/SwanFallsC1785E014A8ADBAD74609F885F392570.tmp' to '../../../../../../GitHub/luminary/IdahoHistory/Content/SwanFalls.umap'
+[2026.01.25-22.28.46:241][379]LogFileHelpers: Saving map 'SwanFalls' took 0.490
+[2026.01.25-22.28.46:268][379]LogFileHelpers: InternalPromptForCheckoutAndSave took 585.299 ms
+[2026.01.25-22.28.46:330][379]LogContentValidation: Display: Starting to validate 1 assets
+[2026.01.25-22.28.46:330][379]LogContentValidation: Enabled validators:
+[2026.01.25-22.28.46:330][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.01.25-22.28.46:330][379]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.01.25-22.28.46:330][379]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.01.25-22.28.46:330][379]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.01.25-22.28.46:330][379]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.01.25-22.28.46:330][379]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.01.25-22.28.46:330][379]AssetCheck: /Game/SwanFalls Validating asset
+[2026.01.25-22.28.46:345][379]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHub/luminary/IdahoHistory/Saved/SourceControl/UncontrolledChangelists.json
