@@ -1413,3 +1413,15 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.03-21.44.38:354][839]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.03-21.44.38:354][839]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2502.268555, Update Interval: 353.349396
 [2026.03.03-21.44.52:381][871]LogStats: ConstructGameplayTagTree GameplayTag tables after adding new tag -  0.000 s
+[2026.03.03-21.46.40:626][190]LogSwitchboardPlugin: Display: Launching: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/Switchboard/Source/Switchboard/switchboard.bat "C:/Program Files/Epic Games/UE_5.6/Engine/Extras/ThirdPartyNotUE/SwitchboardThirdParty/Python" 
+[2026.03.03-21.46.40:631][190]LogSwitchboardPlugin: Display: Successfully started Switchboard
+[2026.03.03-21.47.19:251][302]LogSlate: Window 'Switchboard New Config Options' being destroyed
+[2026.03.03-21.47.20:349][302]LogSwitchboardPlugin: Display: Launching: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/Switchboard/Source/Switchboard/switchboard.bat "C:/Program Files/Epic Games/UE_5.6/Engine/Extras/ThirdPartyNotUE/SwitchboardThirdParty/Python" --defaultenv --script "C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/Switchboard/Content/Python/sb_script_new_config.py" --scriptargs "C:\Users\Demon\AppData\Local\Temp\sb_script_args_B6828C024C820429C187E6822BA9249B.json"
+[2026.03.03-21.48.49:465][549]LogSlate: Window 'Switchboard New Config Options' being destroyed
+[2026.03.03-21.48.50:230][549]LogSwitchboardPlugin: Display: Launching: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/Switchboard/Source/Switchboard/switchboard.bat "C:/Program Files/Epic Games/UE_5.6/Engine/Extras/ThirdPartyNotUE/SwitchboardThirdParty/Python" --defaultenv --script "C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/Switchboard/Content/Python/sb_script_new_config.py" --scriptargs "C:\Users\Demon\AppData\Local\Temp\sb_script_args_094F11D54C0909842AFFD69E9A0D6CEE.json"
+[2026.03.03-21.51.15:656][990]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2900.083496
+[2026.03.03-21.51.16:657][993]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-21.51.16:657][993]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2900.750000, Update Interval: 343.802002
+[2026.03.03-21.57.52:899][193]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3297.328857
+[2026.03.03-21.57.53:899][196]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-21.57.53:899][196]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3297.995361, Update Interval: 357.251495
