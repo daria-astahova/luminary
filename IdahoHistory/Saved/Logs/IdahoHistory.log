@@ -1342,3 +1342,74 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2026.03.03-21.13.34:940][354]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 639.358765
 [2026.03.03-21.13.35:940][357]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2026.03.03-21.13.35:941][357]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 640.025330, Update Interval: 325.472595
+[2026.03.03-21.19.06:946][350]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 971.364563
+[2026.03.03-21.19.07:946][353]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-21.19.07:947][353]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 972.031128, Update Interval: 330.892670
+[2026.03.03-21.24.52:428][378]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1316.847290
+[2026.03.03-21.24.53:429][381]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-21.24.53:429][382]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1317.513916, Update Interval: 357.626892
+[2026.03.03-21.25.36:482][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2026.03.03-21.25.36:484][517]LogStreaming: Display: FlushAsyncLoading(735): 1 QueuedPackages, 0 AsyncPackages
+[2026.03.03-21.25.36:669][517]LogChaosDD: Creating Chaos Debug Draw Scene for world SwanFalls
+[2026.03.03-21.25.39:352][517]LogAssetEditorSubsystem: Opening Asset editor for World /Game/SwanFalls.SwanFalls
+[2026.03.03-21.25.39:352][517]Cmd: MAP LOAD FILE="../../../../../../Users/Demon/Documents/GitHub/IdahoHistory/luminary/IdahoHistory/Content/SwanFalls.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2026.03.03-21.25.39:595][517]LogWorld: UWorld::CleanupWorld for Untitled_1, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-21.25.39:595][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-21.25.39:595][517]LogWorldPartition: UWorldPartition::Uninitialize : World = /Temp/Untitled_1.Untitled_1
+[2026.03.03-21.25.39:818][517]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2026.03.03-21.25.39:839][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2026.03.03-21.25.40:062][517]LogWorld: UWorld::CleanupWorld for SwanFalls, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-21.25.40:064][517]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-21.25.40:126][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2026.03.03-21.25.40:163][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2026.03.03-21.25.40:256][517]LogAudio: Display: Audio Device (ID: 1) registered with world 'SwanFalls'.
+[2026.03.03-21.25.40:256][517]LogChaosDD: Creating Chaos Debug Draw Scene for world SwanFalls
+[2026.03.03-21.25.40:357][517]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2026.03.03-21.25.40:399][517]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.03.03-21.25.40:407][517]Cmd: MAP CHECKDEP NOCLEARLOG
+[2026.03.03-21.25.40:408][517]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.056ms to complete.
+[2026.03.03-21.25.41:223][518]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2026.03.03-21.25.41:245][518]LogSlate: Took 0.000247 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2026.03.03-21.26.03:700][571]LogAssetEditorSubsystem: Opening Asset editor for DisplayClusterBlueprint /Game/Luminary.Luminary
+[2026.03.03-21.26.03:701][571]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2026.03.03-21.26.07:765][576]LogSwitchboardPlugin: Display: Launching: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/Switchboard/Source/Switchboard/switchboard.bat "C:/Program Files/Epic Games/UE_5.6/Engine/Extras/ThirdPartyNotUE/SwitchboardThirdParty/Python" 
+[2026.03.03-21.26.07:775][576]LogSwitchboardPlugin: Display: Successfully started Switchboard
+[2026.03.03-21.28.07:112][924]LogSlate: Window 'Luminary' being destroyed
+[2026.03.03-21.28.07:990][924]LogSlate: Window 'Luminary' being destroyed
+[2026.03.03-21.28.07:995][924]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.03.03-21.28.07:995][924]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.03.03-21.28.08:116][924]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2026.03.03-21.29.06:942][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2026.03.03-21.29.08:669][ 87]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SwanFalls" FILE="../../../../../../Users/Demon/Documents/GitHub/IdahoHistory/luminary/IdahoHistory/Content/SwanFalls.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2026.03.03-21.29.08:943][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2026.03.03-21.29.09:965][ 87]LogSavePackage: Moving output files for package: /Game/SwanFalls
+[2026.03.03-21.29.09:966][ 87]LogSavePackage: Moving '../../../../../../Users/Demon/Documents/GitHub/IdahoHistory/luminary/IdahoHistory/Saved/SwanFalls772ADA784FBA44EAB753149E12099CC5.tmp' to '../../../../../../Users/Demon/Documents/GitHub/IdahoHistory/luminary/IdahoHistory/Content/SwanFalls.umap'
+[2026.03.03-21.29.09:978][ 87]LogFileHelpers: Saving map 'SwanFalls' took 1.741
+[2026.03.03-21.29.10:478][ 87]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.53 sec
+[2026.03.03-21.29.11:247][ 87]LogContentValidation: Display: Starting to validate 1 assets
+[2026.03.03-21.29.11:247][ 87]LogContentValidation: Enabled validators:
+[2026.03.03-21.29.11:247][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2026.03.03-21.29.11:247][ 87]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2026.03.03-21.29.11:247][ 87]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2026.03.03-21.29.11:247][ 87]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2026.03.03-21.29.11:247][ 87]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2026.03.03-21.29.11:247][ 87]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2026.03.03-21.29.11:595][ 87]AssetCheck: /Game/SwanFalls Validating asset
+[2026.03.03-21.29.12:258][ 87]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../Users/Demon/Documents/GitHub/IdahoHistory/luminary/IdahoHistory/Saved/SourceControl/UncontrolledChangelists.json
+[2026.03.03-21.29.32:066][141]LogSceneOutliner: Outliner Column Item Label does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.03.03-21.29.32:067][141]LogSceneOutliner: Outliner Column Type does not have a localizable name, please specify one to FSceneOutlinerColumnInfo
+[2026.03.03-21.29.40:233][153]LogSlate: Window 'Switchboard New Config Options' being destroyed
+[2026.03.03-21.29.40:238][153]LogSwitchboardPlugin: Display: Launching: C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/Switchboard/Source/Switchboard/switchboard.bat "C:/Program Files/Epic Games/UE_5.6/Engine/Extras/ThirdPartyNotUE/SwitchboardThirdParty/Python" --defaultenv --script "C:/Program Files/Epic Games/UE_5.6/Engine/Plugins/VirtualProduction/Switchboard/Content/Python/sb_script_new_config.py" --scriptargs "C:\Users\Demon\AppData\Local\Temp\sb_script_args_E23C520C4F111B9C03690ABCCCC65E32.json"
+[2026.03.03-21.31.22:599][468]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1707.018677
+[2026.03.03-21.31.23:599][471]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-21.31.23:599][471]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1707.684937, Update Interval: 354.103821
+[2026.03.03-21.37.52:284][630]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2096.706543
+[2026.03.03-21.37.53:285][633]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-21.37.53:285][633]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2097.373047, Update Interval: 353.885925
+[2026.03.03-21.44.26:389][811]LogStats: ConstructGameplayTagTree GameplayTag tables after adding new tag -  0.000 s
+[2026.03.03-21.44.36:920][835]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2501.346191
+[2026.03.03-21.44.38:354][839]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2026.03.03-21.44.38:354][839]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2502.268555, Update Interval: 353.349396
+[2026.03.03-21.44.52:381][871]LogStats: ConstructGameplayTagTree GameplayTag tables after adding new tag -  0.000 s
