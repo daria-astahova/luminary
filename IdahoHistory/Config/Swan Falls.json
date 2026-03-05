@@ -161,7 +161,7 @@
                 "priority_modifier": "Normal",
                 "populated_config_itemDatas": [],
                 "minimize_before_launch": true,
-                "primary_device_name": "Node_1",
+                "primary_device_name": "Node_0",
                 "logging": {
                     "LogConcert": null,
                     "LogDisplayClusterCluster": null,
