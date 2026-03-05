@@ -1,0 +1,256 @@
+{
+    "project_name": "SwanFalls_Test",
+    "uproject": "C:\\Users\\Demon\\Documents\\GitHub\\Luminary\\Luminary\\Luminary.uproject",
+    "engine_dir": "C:\\Program Files\\Epic Games\\UE_5.6",
+    "engine_sync_method": "Build Engine",
+    "maps_path": "",
+    "maps_filter": "*.umap",
+    "content_plugin_filters": [],
+    "listener_exe": "SwitchboardListener",
+    "sblhelper_exe": "SwitchboardListenerHelper",
+    "tracing_enabled": false,
+    "tracing_args": "default,concert,messaging,tasks",
+    "tracing_stat_events": true,
+    "osc_server_port": 6000,
+    "p4_enabled": false,
+    "p4_sync_path": "",
+    "p4_engine_path": "//EU/UnrealEngine/5.6.1",
+    "source_control_workspace": "None",
+    "muserver_command_line_arguments": "",
+    "muserver_server_name": "luminary_test_MU_Server",
+    "muserver_endpoint": ":9030",
+    "multiuser_exe": "UnrealMultiUserServer",
+    "multiuserslate_exe": "UnrealMultiUserSlateServer",
+    "muserver_auto_launch": true,
+    "muserver_slate_mode": true,
+    "muserver_clean_history": false,
+    "muserver_auto_build": true,
+    "muserver_auto_endpoint": true,
+    "muserver_multicast_endpoint": "230.0.0.1:6666",
+    "muserver_auto_join": true,
+    "muserver_archive_dir": "",
+    "muserver_working_dir": "",
+    "current_level": null,
+    "devices": {
+        "KiPro": {
+            "settings": {
+                "is_recording_device": true
+            }
+        },
+        "LiveLinkFace": {
+            "settings": {
+                "osc_port": 8000
+            }
+        },
+        "Motive": {
+            "settings": {
+                "is_recording_device": true,
+                "motive_port": 1510
+            }
+        },
+        "MultiplayerServer": {
+            "settings": {
+                "executable_path": "",
+                "level_path": "",
+                "multiplayer_port": 7777,
+                "port": 2980
+            }
+        },
+        "Unreal": {
+            "settings": {
+                "is_recording_device": true,
+                "buffer_size": 1024,
+                "command_line_arguments": "",
+                "exec_cmds": [],
+                "dp_cvars": [],
+                "port": 2980,
+                "osc_port": 5500,
+                "roles_filename": "VPRoles.ini",
+                "stage_session_id": 0,
+                "editor_exe": "UnrealEditor.exe",
+                "max_gpu_count": 1,
+                "priority_modifier": "Normal",
+                "auto_decline_package_recovery": false,
+                "udpmessaging_unicast_endpoint": ":0",
+                "udpmessaging_extra_static_endpoints": "",
+                "udpmessaging_multicast_endpoint": "230.0.0.1:6666",
+                "log_download_dir": "",
+                "reflect_visibility_to_game": true,
+                "rsync_port": 8730,
+                "listener_inactive_timeout": 5,
+                "slate_allow_throttling": false,
+                "retrieve_logs": true,
+                "livelink_preset": "",
+                "mediaprofile": "",
+                "lock_gpu_clock": false,
+                "use_sync_filters": false,
+                "included_sync_categories": [
+                    [
+                        "6703e989-d912-451d-93ad-b48de748d282",
+                        "Content"
+                    ],
+                    [
+                        "f44b2d25-cbc0-4a8f-b6b3-e4a8125533dd",
+                        "Platform Support: Linux"
+                    ],
+                    [
+                        "5206ccee-9024-4e36-8b89-f5f5a7d288d2",
+                        "Platform Support: Win64"
+                    ],
+                    [
+                        "cfec942a-bb90-4f0c-accf-238ecaad9430",
+                        "Source Code"
+                    ]
+                ],
+                "custom_sync_view": ""
+            }
+        },
+        "nDisplay": {
+            "settings": {
+                "ndisplay_cfg_file": "C:\\Users\\Demon\\Documents\\UnrealEngine-5.4.3-20240828\\NDC_Luminary_KF.uasset",
+                "use_all_available_cores": false,
+                "texture_streaming": true,
+                "sound": false,
+                "render_api": "dx11",
+                "multiplayer_mode": "None",
+                "dedicated_server_address": "127.0.0.1",
+                "dedicated_server_port": "7777",
+                "render_mode": "Mono",
+                "render_sync_policy": "Config",
+                "executable_filename": "Z:\\Unreal projects\\Kaj\\LuminaryOSCTest\\Windows\\LuminaryEscapeRoom.exe",
+                "ndisplay_cmd_args": "",
+                "ndisplay_exec_cmds": [],
+                "ndisplay_dp_cvars": [],
+                "ndisplay_unattended": true,
+                "max_gpu_count": 2,
+                "priority_modifier": "Normal",
+                "populated_config_itemDatas": [],
+                "minimize_before_launch": true,
+                "primary_device_name": "node_left",
+                "logging": {
+                    "LogConcert": null,
+                    "LogDisplayClusterCluster": null,
+                    "LogDisplayClusterConfig": null,
+                    "LogDisplayClusterEngine": null,
+                    "LogDisplayClusterGame": null,
+                    "LogDisplayClusterNetwork": null,
+                    "LogDisplayClusterRender": null,
+                    "LogDisplayClusterRenderSync": null,
+                    "LogDisplayClusterViewport": null,
+                    "LogDisplayClusterMedia": null,
+                    "LogDisplayClusterStageMonitoringDWM": null,
+                    "LogLiveLink": null,
+                    "LogRemoteControl": null
+                },
+                "udpmessaging_unicast_endpoint": ":0",
+                "udpmessaging_extra_static_endpoints": "",
+                "disable_ensures": true,
+                "disable_all_screen_messages": true,
+                "livelink_preset": "",
+                "graphics_adapter": "Config",
+                "mediaprofile": "",
+                "lock_gpu_clock": false,
+                "port": 2980,
+                "roles_filename": "VPRoles.ini",
+                "stage_session_id": 0
+            },
+            "node_left": {
+                "address": "10.31.11.138",
+                "roles": [],
+                "ddc_build_platforms": [
+                    "Windows",
+                    "WindowsEditor",
+                    "Linux",
+                    "LinuxEditor"
+                ],
+                "autojoin_mu_server": true,
+                "last_launch_command": "Z:\\Unreal projects\\Kaj\\LuminaryOSCTest\\Windows\\LuminaryEscapeRoom.exe  -game None -messaging -dc_cluster -nosplash -fixedseed -NoVerifyGC -noxrstereo -xrtrackingonly -RemoteControlIsHeadless   -StageFriendlyName=\"node_left\"  -MaxGPUCount=2 -dc_cfg=\"C:\\Users\\Demon\\AppData\\Local\\Temp\\ndisplay\\88C021234857CF2436B985A83B27F4B7.ndisplay\" -dx11 -dc_dev_mono   -nosound -dc_node=node_left Log=node_left.log -ini:Engine:[/Script/Engine.Engine]:GameEngine=/Script/DisplayCluster.DisplayClusterGameEngine,[/Script/Engine.Engine]:GameViewportClientClassName=/Script/DisplayCluster.DisplayClusterViewportClient,[/Script/Engine.UserInterfaceSettings]:bAllowHighDPIInGameMode=True -ini:Game:[/Script/EngineSettings.GeneralProjectSettings]:bUseBorderlessWindow=True -ini:Input:[/Script/Engine.InputSettings]:DefaultPlayerInputClass=/Script/DisplayCluster.DisplayClusterPlayerInput -unattended -NoScreenMessages -handleensurepercent=0 -UDPMESSAGING_TRANSPORT_MULTICAST=\"230.0.0.1:6666\" -UDPMESSAGING_TRANSPORT_UNICAST=\"10.31.11.138:0\" -UDPMESSAGING_TRANSPORT_STATIC=\"169.254.238.139:9030\" -ExecCmds=\"DisableAllScreenMessages\" -fullscreen -CONCERTRETRYAUTOCONNECTONERROR -CONCERTAUTOCONNECT -CONCERTSERVER=\"luminary_test_MU_Server_zV42Z+K03l/I\" -CONCERTSESSION=\"MU_Session\" -CONCERTDISPLAYNAME=\"node_left\" -CONCERTISHEADLESS -DPCVars=\"Slate.bAllowNotifications=0,p.Chaos.Solver.Deterministic=1,LevelInstance.ForceEditorWorldMode=1\" ",
+                "last_log_path": "Saved\\Logs\\Switchboard\\node_left.log",
+                "last_trace_path": "",
+                "exclude_from_build": false,
+                "exclude_from_insights": false,
+                "last_sync_filter_hash": "",
+                "ue_command_line": "Z:\\Unreal projects\\Kaj\\LuminaryOSCTest\\Windows\\LuminaryEscapeRoom.exe  -game  -messaging -dc_cluster -nosplash -fixedseed -NoVerifyGC -noxrstereo -xrtrackingonly -RemoteControlIsHeadless   -StageFriendlyName=\"node_left\"  -MaxGPUCount=2 -dc_cfg=\"C:\\Users\\Demon\\Documents\\UnrealEngine-5.4.3-20240828\\NDC_Luminary_KF.uasset\" -dx11 -dc_dev_mono   -nosound -dc_node=node_left Log=node_left.log -ini:Engine:[/Script/Engine.Engine]:GameEngine=/Script/DisplayCluster.DisplayClusterGameEngine,[/Script/Engine.Engine]:GameViewportClientClassName=/Script/DisplayCluster.DisplayClusterViewportClient,[/Script/Engine.UserInterfaceSettings]:bAllowHighDPIInGameMode=True -ini:Game:[/Script/EngineSettings.GeneralProjectSettings]:bUseBorderlessWindow=True -ini:Input:[/Script/Engine.InputSettings]:DefaultPlayerInputClass=/Script/DisplayCluster.DisplayClusterPlayerInput -unattended -NoScreenMessages -handleensurepercent=0 -UDPMESSAGING_TRANSPORT_MULTICAST=\"230.0.0.1:6666\" -UDPMESSAGING_TRANSPORT_UNICAST=\"10.31.11.138:0\" -UDPMESSAGING_TRANSPORT_STATIC=\"169.254.238.139:9030\" -ExecCmds=\"DisableAllScreenMessages\" -fullscreen -CONCERTRETRYAUTOCONNECTONERROR -CONCERTAUTOCONNECT -CONCERTSERVER=\"luminary_test_MU_Server_zV42Z+K03l/I\" -CONCERTSESSION=\"MU_Session\" -CONCERTDISPLAYNAME=\"node_left\" -CONCERTISHEADLESS -DPCVars=\"Slate.bAllowNotifications=0,p.Chaos.Solver.Deterministic=1,LevelInstance.ForceEditorWorldMode=1\" ",
+                "window_position": [
+                    0,
+                    0
+                ],
+                "window_resolution": [
+                    7246,
+                    2160
+                ],
+                "fullscreen": true,
+                "headless": false,
+                "config_graphics_adapter": -1
+            },
+            "node_front": {
+                "address": "10.31.11.193",
+                "roles": [],
+                "ddc_build_platforms": [
+                    "Windows",
+                    "WindowsEditor",
+                    "Linux",
+                    "LinuxEditor"
+                ],
+                "autojoin_mu_server": true,
+                "last_launch_command": "Z:\\Unreal projects\\Kaj\\LuminaryOSCTest\\Windows\\LuminaryEscapeRoom.exe  -game None -messaging -dc_cluster -nosplash -fixedseed -NoVerifyGC -noxrstereo -xrtrackingonly -RemoteControlIsHeadless   -StageFriendlyName=\"node_front\"  -MaxGPUCount=2 -dc_cfg=\"C:\\Users\\downstream\\AppData\\Local\\Temp\\ndisplay\\3440E51949E22728C48FB483A41B2A32.ndisplay\" -dx11 -dc_dev_mono   -nosound -dc_node=node_front Log=node_front.log -ini:Engine:[/Script/Engine.Engine]:GameEngine=/Script/DisplayCluster.DisplayClusterGameEngine,[/Script/Engine.Engine]:GameViewportClientClassName=/Script/DisplayCluster.DisplayClusterViewportClient,[/Script/Engine.UserInterfaceSettings]:bAllowHighDPIInGameMode=True -ini:Game:[/Script/EngineSettings.GeneralProjectSettings]:bUseBorderlessWindow=True -ini:Input:[/Script/Engine.InputSettings]:DefaultPlayerInputClass=/Script/DisplayCluster.DisplayClusterPlayerInput -unattended -NoScreenMessages -handleensurepercent=0 -UDPMESSAGING_TRANSPORT_MULTICAST=\"230.0.0.1:6666\" -UDPMESSAGING_TRANSPORT_UNICAST=\"10.31.11.193:0\" -UDPMESSAGING_TRANSPORT_STATIC=\"169.254.238.139:9030\" -ExecCmds=\"DisableAllScreenMessages\" -fullscreen -CONCERTRETRYAUTOCONNECTONERROR -CONCERTAUTOCONNECT -CONCERTSERVER=\"luminary_test_MU_Server_zV42Z+K03l/I\" -CONCERTSESSION=\"MU_Session\" -CONCERTDISPLAYNAME=\"node_front\" -CONCERTISHEADLESS -DPCVars=\"Slate.bAllowNotifications=0,p.Chaos.Solver.Deterministic=1,LevelInstance.ForceEditorWorldMode=1\" ",
+                "last_log_path": "Saved\\Logs\\Switchboard\\node_front.log",
+                "last_trace_path": "",
+                "exclude_from_build": false,
+                "exclude_from_insights": false,
+                "last_sync_filter_hash": "",
+                "ue_command_line": "Z:\\Unreal projects\\Kaj\\LuminaryOSCTest\\Windows\\LuminaryEscapeRoom.exe  -game  -messaging -dc_cluster -nosplash -fixedseed -NoVerifyGC -noxrstereo -xrtrackingonly -RemoteControlIsHeadless   -StageFriendlyName=\"node_front\"  -MaxGPUCount=2 -dc_cfg=\"C:\\Users\\Demon\\Documents\\UnrealEngine-5.4.3-20240828\\NDC_Luminary_KF.uasset\" -dx11 -dc_dev_mono   -nosound -dc_node=node_front Log=node_front.log -ini:Engine:[/Script/Engine.Engine]:GameEngine=/Script/DisplayCluster.DisplayClusterGameEngine,[/Script/Engine.Engine]:GameViewportClientClassName=/Script/DisplayCluster.DisplayClusterViewportClient,[/Script/Engine.UserInterfaceSettings]:bAllowHighDPIInGameMode=True -ini:Game:[/Script/EngineSettings.GeneralProjectSettings]:bUseBorderlessWindow=True -ini:Input:[/Script/Engine.InputSettings]:DefaultPlayerInputClass=/Script/DisplayCluster.DisplayClusterPlayerInput -unattended -NoScreenMessages -handleensurepercent=0 -UDPMESSAGING_TRANSPORT_MULTICAST=\"230.0.0.1:6666\" -UDPMESSAGING_TRANSPORT_UNICAST=\"10.31.11.193:0\" -UDPMESSAGING_TRANSPORT_STATIC=\"169.254.238.139:9030\" -ExecCmds=\"DisableAllScreenMessages\" -fullscreen -CONCERTRETRYAUTOCONNECTONERROR -CONCERTAUTOCONNECT -CONCERTSERVER=\"luminary_test_MU_Server_zV42Z+K03l/I\" -CONCERTSESSION=\"MU_Session\" -CONCERTDISPLAYNAME=\"node_front\" -CONCERTISHEADLESS -DPCVars=\"Slate.bAllowNotifications=0,p.Chaos.Solver.Deterministic=1,LevelInstance.ForceEditorWorldMode=1\" ",
+                "window_position": [
+                    0,
+                    0
+                ],
+                "window_resolution": [
+                    6038,
+                    2160
+                ],
+                "fullscreen": true,
+                "headless": false,
+                "config_graphics_adapter": -1
+            },
+            "node_right": {
+                "address": "10.31.11.139",
+                "roles": [],
+                "ddc_build_platforms": [
+                    "Windows",
+                    "WindowsEditor",
+                    "Linux",
+                    "LinuxEditor"
+                ],
+                "autojoin_mu_server": true,
+                "last_launch_command": "Z:\\Unreal projects\\Kaj\\LuminaryOSCTest\\Windows\\LuminaryEscapeRoom.exe  -game None -messaging -dc_cluster -nosplash -fixedseed -NoVerifyGC -noxrstereo -xrtrackingonly -RemoteControlIsHeadless   -StageFriendlyName=\"node_right\"  -MaxGPUCount=2 -dc_cfg=\"C:\\Users\\downstream\\AppData\\Local\\Temp\\ndisplay\\2770488B4CF751213B6C06B1A40453C5.ndisplay\" -dx11 -dc_dev_mono   -nosound -dc_node=node_right Log=node_right.log -ini:Engine:[/Script/Engine.Engine]:GameEngine=/Script/DisplayCluster.DisplayClusterGameEngine,[/Script/Engine.Engine]:GameViewportClientClassName=/Script/DisplayCluster.DisplayClusterViewportClient,[/Script/Engine.UserInterfaceSettings]:bAllowHighDPIInGameMode=True -ini:Game:[/Script/EngineSettings.GeneralProjectSettings]:bUseBorderlessWindow=True -ini:Input:[/Script/Engine.InputSettings]:DefaultPlayerInputClass=/Script/DisplayCluster.DisplayClusterPlayerInput -unattended -NoScreenMessages -handleensurepercent=0 -UDPMESSAGING_TRANSPORT_MULTICAST=\"230.0.0.1:6666\" -UDPMESSAGING_TRANSPORT_UNICAST=\"10.31.11.139:0\" -UDPMESSAGING_TRANSPORT_STATIC=\"169.254.238.139:9030\" -ExecCmds=\"DisableAllScreenMessages\" -fullscreen -CONCERTRETRYAUTOCONNECTONERROR -CONCERTAUTOCONNECT -CONCERTSERVER=\"luminary_test_MU_Server_zV42Z+K03l/I\" -CONCERTSESSION=\"MU_Session\" -CONCERTDISPLAYNAME=\"node_right\" -CONCERTISHEADLESS -DPCVars=\"Slate.bAllowNotifications=0,p.Chaos.Solver.Deterministic=1,LevelInstance.ForceEditorWorldMode=1\" ",
+                "last_log_path": "Saved\\Logs\\Switchboard\\node_right.log",
+                "last_trace_path": "",
+                "exclude_from_build": false,
+                "exclude_from_insights": false,
+                "last_sync_filter_hash": "",
+                "ue_command_line": "Z:\\Unreal projects\\Kaj\\LuminaryOSCTest\\Windows\\LuminaryEscapeRoom.exe  -game  -messaging -dc_cluster -nosplash -fixedseed -NoVerifyGC -noxrstereo -xrtrackingonly -RemoteControlIsHeadless   -StageFriendlyName=\"node_right\"  -MaxGPUCount=2 -dc_cfg=\"C:\\Users\\Demon\\Documents\\UnrealEngine-5.4.3-20240828\\NDC_Luminary_KF.uasset\" -dx11 -dc_dev_mono   -nosound -dc_node=node_right Log=node_right.log -ini:Engine:[/Script/Engine.Engine]:GameEngine=/Script/DisplayCluster.DisplayClusterGameEngine,[/Script/Engine.Engine]:GameViewportClientClassName=/Script/DisplayCluster.DisplayClusterViewportClient,[/Script/Engine.UserInterfaceSettings]:bAllowHighDPIInGameMode=True -ini:Game:[/Script/EngineSettings.GeneralProjectSettings]:bUseBorderlessWindow=True -ini:Input:[/Script/Engine.InputSettings]:DefaultPlayerInputClass=/Script/DisplayCluster.DisplayClusterPlayerInput -unattended -NoScreenMessages -handleensurepercent=0 -UDPMESSAGING_TRANSPORT_MULTICAST=\"230.0.0.1:6666\" -UDPMESSAGING_TRANSPORT_UNICAST=\"10.31.11.139:0\" -UDPMESSAGING_TRANSPORT_STATIC=\"169.254.238.139:9030\" -ExecCmds=\"DisableAllScreenMessages\" -fullscreen -CONCERTRETRYAUTOCONNECTONERROR -CONCERTAUTOCONNECT -CONCERTSERVER=\"luminary_test_MU_Server_zV42Z+K03l/I\" -CONCERTSESSION=\"MU_Session\" -CONCERTDISPLAYNAME=\"node_right\" -CONCERTISHEADLESS -DPCVars=\"Slate.bAllowNotifications=0,p.Chaos.Solver.Deterministic=1,LevelInstance.ForceEditorWorldMode=1\" ",
+                "window_position": [
+                    0,
+                    0
+                ],
+                "window_resolution": [
+                    8456,
+                    2160
+                ],
+                "fullscreen": true,
+                "headless": false,
+                "config_graphics_adapter": -1
+            }
+        },
+        "Shogun": {
+            "settings": {
+                "is_recording_device": true
+            }
+        },
+        "SoundDevices": {
+            "settings": {
+                "is_recording_device": true
+            }
+        }
+    }
+}
