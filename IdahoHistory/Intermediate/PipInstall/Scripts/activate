@@ -35,7 +35,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\downstream\Downloads\luminary\IdahoHistory\Intermediate\PipInstall"
+VIRTUAL_ENV="C:\GitHub\luminary\IdahoHistory\Intermediate\PipInstall"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
