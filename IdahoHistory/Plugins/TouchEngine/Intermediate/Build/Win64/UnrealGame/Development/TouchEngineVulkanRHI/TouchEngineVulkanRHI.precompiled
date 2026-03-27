@@ -1,0 +1,19 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineVulkanRHI\\Logging.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineVulkanRHI\\TouchEngineVulkanResourceProvider.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineVulkanRHI\\TouchEngineVulkanRHI.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineVulkanRHI\\VulkanTouchUtils.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineVulkanRHI\\ExportedTextureVulkan.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineVulkanRHI\\RHICommmandCopyUnrealToTouch.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineVulkanRHI\\TouchTextureExporterVulkan.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineVulkanRHI\\RHICommandCopyTouchToUnreal.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineVulkanRHI\\TouchImportTextureVulkan.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineVulkanRHI\\TouchTextureImporterVulkan.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineVulkanRHI\\VulkanImportUtils.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineVulkanRHI\\SemaphoreVulkanUtils.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineVulkanRHI\\TextureShareVulkanPlatformWindows.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineVulkanRHI\\VulkanCommandBuilder.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineVulkanRHI\\VulkanWindowsFunctions.cpp.obj"
+	]
+}

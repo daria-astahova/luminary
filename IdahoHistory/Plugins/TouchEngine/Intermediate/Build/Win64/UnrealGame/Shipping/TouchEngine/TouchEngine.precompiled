@@ -1,0 +1,27 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\Module.TouchEngine.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\Logging.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchEngineDynamicVariableStruct.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchEngineDynamicVariableStructVersion.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchEngineIntVector4.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchEngineModule.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchEngineParserUtils.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\ToxAsset.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchBlueprintFunctionLibrary.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchEngineActor.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchEngineComponent.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchEngine.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchEngineInfo.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchEngineSubsystem.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchVariables.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchErrorLog.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchFrameCooker.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchVariableManager.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchResourceProvider.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\ExportedTouchTexture.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchTextureExporter.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchImportTexture_AcquireOnRenderThread.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngine\\TouchTextureImporter.cpp.obj"
+	]
+}

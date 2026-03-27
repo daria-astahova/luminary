@@ -1,0 +1,14 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngineD3D12RHI\\D3D12TouchUtils.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngineD3D12RHI\\Logging.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngineD3D12RHI\\TouchEngineD3D12ResourceProvider.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngineD3D12RHI\\TouchEngineD3D12RHI.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngineD3D12RHI\\ExportedTextureD3D12.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngineD3D12RHI\\TextureShareD3D12PlatformWindows.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngineD3D12RHI\\TouchTextureExporterD3D12.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngineD3D12RHI\\TouchImportTextureD3D12.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngineD3D12RHI\\TouchTextureImporterD3D12.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\TouchEngineD3D12RHI\\TouchFenceCache.cpp.obj"
+	]
+}

@@ -1,0 +1,71 @@
+[+] Containers:
+ |- [+] Container: /Game/FrontLocation
+ |   |- [+] ActorDescs:
+ |   |   |- Guid:5301C6DB44913AD3A9EB9CEA413E9188 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:false EditorBounds:IsValid=false EditorBoundsRelative:IsValid=false RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBoundsRelative:IsValid=true, Center=(X=0.000 Y=0.000 Z=0.000), Rotation=(X=-0.000 Y=0.000 Z=0.000), Extents=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true View=(RuntimeGrid=MainGrid RuntimeHLODLayer=none bIsForcedNonSpatiallyLoaded=false bIsForcedNoRuntimeGrid=false bIsForcedNoDataLayers=false bIsForceNoHLODLayer=false bIsForcedHLODIrrelevant=false)
+ |   |   |- Guid:5BF459B6A0413719A0C46C083E038DCA NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) EditorBoundsRelative:IsValid=true, Center=(X=0.000 Y=0.000 Z=0.000), Rotation=(X=-0.000 Y=0.000 Z=0.000), Extents=(X=4096.000 Y=4096.000 Z=4096.000) RuntimeBounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeBoundsRelative:IsValid=true, Center=(X=0.000 Y=0.000 Z=0.000), Rotation=(X=-0.000 Y=0.000 Z=0.000), Extents=(X=4096.000 Y=4096.000 Z=4096.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB View=(RuntimeGrid=MainGrid RuntimeHLODLayer=none bIsForcedNonSpatiallyLoaded=false bIsForcedNoRuntimeGrid=false bIsForcedNoDataLayers=false bIsForceNoHLODLayer=false bIsForcedHLODIrrelevant=false)
+ |   |   |- Guid:7584C7334793434B43CE0796E085B326 NativeClass:/Script/Engine.AmbientSound Name:AmbientSound_UAID_98597AE3854A48CB02_1334539535 Label:river_water_sfx SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-790.000 Y=520.000 Z=10.000), Max=(X=-790.000 Y=520.000 Z=10.000) EditorBoundsRelative:IsValid=true, Center=(X=0.000 Y=0.000 Z=0.000), Rotation=(X=-0.000 Y=0.000 Z=0.000), Extents=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=true, Min=(X=-790.000 Y=520.000 Z=10.000), Max=(X=-790.000 Y=520.000 Z=10.000) RuntimeBoundsRelative:IsValid=true, Center=(X=0.000 Y=0.000 Z=0.000), Rotation=(X=-0.000 Y=0.000 Z=0.000), Extents=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false View=(RuntimeGrid=MainGrid RuntimeHLODLayer=none bIsForcedNonSpatiallyLoaded=false bIsForcedNoRuntimeGrid=false bIsForcedNoDataLayers=false bIsForceNoHLODLayer=false bIsForcedHLODIrrelevant=false)
+ |   |   |- Guid:C20E5EA74D0ABE04356E2E86C16F4E32 BaseClass:/Game/Widgets/PopupWidget/BP_PopupObject.BP_PopupObject_C NativeClass:/Script/Engine.Actor Name:BP_PopupObject_C_UAID_4CD71734DDEB6ACB02_1770661519 Label:BP_PopupObject SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-15071.815 Y=-3306.722 Z=625.999), Max=(X=-14591.815 Y=-2826.722 Z=1105.999) EditorBoundsRelative:IsValid=true, Center=(X=0.000 Y=0.000 Z=0.000), Rotation=(X=-0.000 Y=0.000 Z=0.000), Extents=(X=87.273 Y=87.273 Z=87.273) RuntimeBounds:IsValid=true, Min=(X=-15071.815 Y=-3306.722 Z=625.999), Max=(X=-14591.815 Y=-2826.722 Z=1105.999) RuntimeBoundsRelative:IsValid=true, Center=(X=0.000 Y=0.000 Z=0.000), Rotation=(X=-0.000 Y=0.000 Z=0.000), Extents=(X=87.273 Y=87.273 Z=87.273) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false View=(RuntimeGrid=MainGrid RuntimeHLODLayer=none bIsForcedNonSpatiallyLoaded=false bIsForcedNoRuntimeGrid=false bIsForcedNoDataLayers=false bIsForceNoHLODLayer=false bIsForcedHLODIrrelevant=false)
+ |   |   |- Guid:E77E3B9055E13D0D8E8D33212FF6C371 BaseClass:/Game/nDisplay/LuminaryFinalTreeFort.LuminaryFinalTreeFort_C NativeClass:/Script/DisplayCluster.DisplayClusterRootActor Name:ThreeWallConfig_C_UAID_98597AE3854ABE9802_1361130451 Label:ThreeWallConfig SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-1635.976 Y=-1262.902 Z=-80.000), Max=(X=513.587 Y=953.228 Z=420.000) EditorBoundsRelative:IsValid=true, Center=(X=41.244 Y=70.606 Z=200.000), Rotation=(X=0.000 Y=-0.000 Z=-149.263), Extents=(X=1074.782 Y=1108.065 Z=250.000) RuntimeBounds:IsValid=true, Min=(X=-1635.976 Y=-1262.902 Z=-80.000), Max=(X=513.587 Y=953.228 Z=420.000) RuntimeBoundsRelative:IsValid=true, Center=(X=41.244 Y=70.606 Z=200.000), Rotation=(X=0.000 Y=-0.000 Z=-149.263), Extents=(X=1074.782 Y=1108.065 Z=250.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false View=(RuntimeGrid=MainGrid RuntimeHLODLayer=none bIsForcedNonSpatiallyLoaded=false bIsForcedNoRuntimeGrid=false bIsForcedNoDataLayers=false bIsForceNoHLODLayer=false bIsForcedHLODIrrelevant=false)
+ |   |- [+] Clusters:
+ |   |   |- [+] [  0]
+ |   |   |   |- Guid:5301C6DB44913AD3A9EB9CEA413E9188 NativeClass:/Script/Engine.WorldDataLayers Name:WorldDataLayers Label:WorldDataLayers-1 SpatiallyLoaded:false EditorBounds:IsValid=false EditorBoundsRelative:IsValid=false RuntimeBounds:IsValid=true, Min=(X=0.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=0.000) RuntimeBoundsRelative:IsValid=true, Center=(X=0.000 Y=0.000 Z=0.000), Rotation=(X=-0.000 Y=0.000 Z=0.000), Extents=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true View=(RuntimeGrid=MainGrid RuntimeHLODLayer=none bIsForcedNonSpatiallyLoaded=false bIsForcedNoRuntimeGrid=false bIsForcedNoDataLayers=false bIsForceNoHLODLayer=false bIsForcedHLODIrrelevant=false)
+ |   |   |- [+] [  1]
+ |   |   |   |- Guid:5BF459B6A0413719A0C46C083E038DCA NativeClass:/Script/Engine.StaticMeshActor Name:StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663 Label:SM_SkySphere SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) EditorBoundsRelative:IsValid=true, Center=(X=0.000 Y=0.000 Z=0.000), Rotation=(X=-0.000 Y=0.000 Z=0.000), Extents=(X=4096.000 Y=4096.000 Z=4096.000) RuntimeBounds:IsValid=true, Min=(X=-1638400.000 Y=-1638400.000 Z=-1638400.000), Max=(X=1638400.000 Y=1638400.000 Z=1638400.000) RuntimeBoundsRelative:IsValid=true, Center=(X=0.000 Y=0.000 Z=0.000), Rotation=(X=-0.000 Y=0.000 Z=0.000), Extents=(X=4096.000 Y=4096.000 Z=4096.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:true FolderPath:Lighting FolderGuid:B7E9BD5B45A652654791988DEF54CCEB View=(RuntimeGrid=MainGrid RuntimeHLODLayer=none bIsForcedNonSpatiallyLoaded=false bIsForcedNoRuntimeGrid=false bIsForcedNoDataLayers=false bIsForceNoHLODLayer=false bIsForcedHLODIrrelevant=false)
+ |   |   |- [+] [  2]
+ |   |   |   |- Guid:7584C7334793434B43CE0796E085B326 NativeClass:/Script/Engine.AmbientSound Name:AmbientSound_UAID_98597AE3854A48CB02_1334539535 Label:river_water_sfx SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-790.000 Y=520.000 Z=10.000), Max=(X=-790.000 Y=520.000 Z=10.000) EditorBoundsRelative:IsValid=true, Center=(X=0.000 Y=0.000 Z=0.000), Rotation=(X=-0.000 Y=0.000 Z=0.000), Extents=(X=0.000 Y=0.000 Z=0.000) RuntimeBounds:IsValid=true, Min=(X=-790.000 Y=520.000 Z=10.000), Max=(X=-790.000 Y=520.000 Z=10.000) RuntimeBoundsRelative:IsValid=true, Center=(X=0.000 Y=0.000 Z=0.000), Rotation=(X=-0.000 Y=0.000 Z=0.000), Extents=(X=0.000 Y=0.000 Z=0.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false View=(RuntimeGrid=MainGrid RuntimeHLODLayer=none bIsForcedNonSpatiallyLoaded=false bIsForcedNoRuntimeGrid=false bIsForcedNoDataLayers=false bIsForceNoHLODLayer=false bIsForcedHLODIrrelevant=false)
+ |   |   |- [+] [  3]
+ |   |   |   |- Guid:C20E5EA74D0ABE04356E2E86C16F4E32 BaseClass:/Game/Widgets/PopupWidget/BP_PopupObject.BP_PopupObject_C NativeClass:/Script/Engine.Actor Name:BP_PopupObject_C_UAID_4CD71734DDEB6ACB02_1770661519 Label:BP_PopupObject SpatiallyLoaded:true EditorBounds:IsValid=true, Min=(X=-15071.815 Y=-3306.722 Z=625.999), Max=(X=-14591.815 Y=-2826.722 Z=1105.999) EditorBoundsRelative:IsValid=true, Center=(X=0.000 Y=0.000 Z=0.000), Rotation=(X=-0.000 Y=0.000 Z=0.000), Extents=(X=87.273 Y=87.273 Z=87.273) RuntimeBounds:IsValid=true, Min=(X=-15071.815 Y=-3306.722 Z=625.999), Max=(X=-14591.815 Y=-2826.722 Z=1105.999) RuntimeBoundsRelative:IsValid=true, Center=(X=0.000 Y=0.000 Z=0.000), Rotation=(X=-0.000 Y=0.000 Z=0.000), Extents=(X=87.273 Y=87.273 Z=87.273) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false View=(RuntimeGrid=MainGrid RuntimeHLODLayer=none bIsForcedNonSpatiallyLoaded=false bIsForcedNoRuntimeGrid=false bIsForcedNoDataLayers=false bIsForceNoHLODLayer=false bIsForcedHLODIrrelevant=false)
+ |   |   |- [+] [  4]
+ |   |   |   |- Guid:E77E3B9055E13D0D8E8D33212FF6C371 BaseClass:/Game/nDisplay/LuminaryFinalTreeFort.LuminaryFinalTreeFort_C NativeClass:/Script/DisplayCluster.DisplayClusterRootActor Name:ThreeWallConfig_C_UAID_98597AE3854ABE9802_1361130451 Label:ThreeWallConfig SpatiallyLoaded:false EditorBounds:IsValid=true, Min=(X=-1635.976 Y=-1262.902 Z=-80.000), Max=(X=513.587 Y=953.228 Z=420.000) EditorBoundsRelative:IsValid=true, Center=(X=41.244 Y=70.606 Z=200.000), Rotation=(X=0.000 Y=-0.000 Z=-149.263), Extents=(X=1074.782 Y=1108.065 Z=250.000) RuntimeBounds:IsValid=true, Min=(X=-1635.976 Y=-1262.902 Z=-80.000), Max=(X=513.587 Y=953.228 Z=420.000) RuntimeBoundsRelative:IsValid=true, Center=(X=41.244 Y=70.606 Z=200.000), Rotation=(X=0.000 Y=-0.000 Z=-149.263), Extents=(X=1074.782 Y=1108.065 Z=250.000) RuntimeGrid:None EditorOnly:false RuntimeOnly:false HLODRelevant:false ListedInSceneOutliner:true IsMainWorldOnly:false View=(RuntimeGrid=MainGrid RuntimeHLODLayer=none bIsForcedNonSpatiallyLoaded=false bIsForcedNoRuntimeGrid=false bIsForcedNoDataLayers=false bIsForceNoHLODLayer=false bIsForcedHLODIrrelevant=false)
+ |- ContainerInstances:
+ |- [+] MainContainer:
+ |   |-           ID: 00000000000000000000000000000000
+ |   |-     ParentID: 00000000000000000000000000000000
+ |   |-       Bounds: IsValid=true, Min=(X=-15071.815 Y=-3306.722 Z=10.000), Max=(X=-790.000 Y=520.000 Z=1105.999)
+ |   |-    Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+ |   |-    Container: /Game/FrontLocation
+ |   |- HLODRelevant: true
+----------------------------------------------------------------------------------------------------------------
+FrontLocation - Persistent Level
+----------------------------------------------------------------------------------------------------------------
+[+] Content of FrontLocation Persistent Level
+ |- Always loaded Actor Count: 3 
+ |- Actor Path: /Game/FrontLocation.FrontLocation:PersistentLevel.StaticMeshActor_UAID_A4AE111137DC54FB00_1240666663
+ |- Actor Package: /Game/__ExternalActors__/FrontLocation/7/0F/XGELQ5LOQ118KX2STJCDNH
+ |- Actor Path: /Game/FrontLocation.FrontLocation:PersistentLevel.ThreeWallConfig_C_UAID_98597AE3854ABE9802_1361130451
+ |- Actor Package: /Game/__ExternalActors__/FrontLocation/3/GN/03ZGTAH85EEJ0T2G7YS2DT
+ |- Actor Path: /Game/FrontLocation.FrontLocation:PersistentLevel.WorldDataLayers
+ |- Actor Package: /Game/__ExternalActors__/FrontLocation/9/RO/VHTKEEVGB2P43B8EECL77I
+
+----------------------------------------------------------------------------------------------------------------
+FrontLocation - Runtime Hash Set
+----------------------------------------------------------------------------------------------------------------
+[+] Content of Cell FrontLocation_MainGrid_L0_X-1_Y-1_Z0 (171EFSVLC2VZG7LIQH3OMAGLR)
+ |- Actor Count: 1
+ |- Always Loaded: False
+ |- Spatially Loaded: True
+ |- Content Bounds: IsValid=true, Min=(X=-15071.815 Y=-3306.722 Z=625.999), Max=(X=-14591.815 Y=-2826.722 Z=1105.999)
+ |- Cell Bounds: IsValid=true, Min=(X=-25200.000 Y=-25200.000 Z=0.000), Max=(X=0.000 Y=0.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/FrontLocation.FrontLocation:PersistentLevel.BP_PopupObject_C_UAID_4CD71734DDEB6ACB02_1770661519
+ |   |-         Package: /Game/__ExternalActors__/FrontLocation/B/L5/WRKIPRIPN6CR6JVVVX2N4S
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: C20E5EA74D0ABE04356E2E86C16F4E32
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+[+] Content of Cell FrontLocation_MainGrid_L0_X-1_Y0_Z0 (2U9F4F5WUXHU2I0IHAXNMOGUV)
+ |- Actor Count: 1
+ |- Always Loaded: False
+ |- Spatially Loaded: True
+ |- Content Bounds: IsValid=true, Min=(X=-790.000 Y=520.000 Z=10.000), Max=(X=-790.000 Y=520.000 Z=10.000)
+ |- Cell Bounds: IsValid=true, Min=(X=-25200.000 Y=0.000 Z=0.000), Max=(X=0.000 Y=25200.000 Z=25200.000)
+ |- Is 2D: False
+ |- [+] /Game/FrontLocation.FrontLocation:PersistentLevel.AmbientSound_UAID_98597AE3854A48CB02_1334539535
+ |   |-         Package: /Game/__ExternalActors__/FrontLocation/D/XF/W7QC2R2VMQCT6P8K9KX6V1
+ |   |-     Editor Only: 0
+ |   |-   Instance Guid: 7584C7334793434B43CE0796E085B326
+ |   |- [+] Container:
+ |   |   |-        ID: 00000000000000000000000000000000
+ |   |   |- Transform: 0.000000,0.000000,0.000000|0.000000,0.000000,-0.000000|1.000000,1.000000,1.000000
+
