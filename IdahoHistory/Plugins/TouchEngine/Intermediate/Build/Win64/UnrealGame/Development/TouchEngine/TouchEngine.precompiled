@@ -1,0 +1,27 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\Module.TouchEngine.gen.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\Logging.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchEngineDynamicVariableStruct.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchEngineDynamicVariableStructVersion.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchEngineIntVector4.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchEngineModule.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchEngineParserUtils.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\ToxAsset.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchBlueprintFunctionLibrary.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchEngineActor.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchEngineComponent.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchEngine.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchEngineInfo.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchEngineSubsystem.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchVariables.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchErrorLog.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchFrameCooker.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchVariableManager.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchResourceProvider.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\ExportedTouchTexture.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchTextureExporter.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchImportTexture_AcquireOnRenderThread.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngine\\TouchTextureImporter.cpp.obj"
+	]
+}

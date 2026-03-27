@@ -1,0 +1,10 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineD3D11RHI\\D3D11TouchUtils.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineD3D11RHI\\Logging.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineD3D11RHI\\TouchEngineD3D11RHI.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineD3D11RHI\\TouchEngineD3X11ResourceProvider.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineD3D11RHI\\TouchTextureExporterD3D11.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Development\\TouchEngineD3D11RHI\\TouchTextureImporterD3D11.cpp.obj"
+	]
+}

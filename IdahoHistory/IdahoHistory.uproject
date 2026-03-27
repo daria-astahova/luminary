@@ -27,5 +27,8 @@
 			"Name": "Switchboard",
 			"Enabled": true
 		}
+	],
+	"AdditionalPluginDirectories": [
+		"Plugins"
 	]
 }
